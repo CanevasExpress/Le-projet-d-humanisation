@@ -1,4 +1,4 @@
-Le-projet-d-humanisation
+Le projet d'humanisation
 ========================
 
 Humaniser veut dire rendre plus humain
